@@ -19,7 +19,8 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/testlib](https://hexdocs.pm/testlib).
 
-```
+The readme above is generated ^
+```shell script
 mix hex.user register //to register user
 mix new <project-name-here> // to bootstrap a project
 mix hex.publish // to publish package
